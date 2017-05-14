@@ -14,7 +14,8 @@ public class Server {
 
     static final int PORT = 7500;
 
-    //test 1 jonathan
+    //test 1 jonathan 
+    //test2
     public static void main(String args[]) {
         
         ServerSocket serverSocket = null;
